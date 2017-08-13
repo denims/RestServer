@@ -7,3 +7,7 @@ You can change the database also in the same cfg file.
 
 The application will add ten records to DB on startup and the same will be sent on query with the following URL
 http://localhost:8080/message?no=2
+
+The following application consumes this rest client
+https://github.com/denims/RestClient.git
+
